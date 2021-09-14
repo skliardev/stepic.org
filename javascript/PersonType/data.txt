@@ -1,0 +1,5 @@
+Input:
+	{"name":"John","lastname":"Doe","work":{"workName":"programmer","level":"juniour"},"info":"bad worker"}
+
+Output:
+	{"name":"John","lastname":"Doe","work":{"workName":"programmer","level":"middle"},"age":25}

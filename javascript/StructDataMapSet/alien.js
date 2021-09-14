@@ -1,0 +1,1 @@
+const swap = (map, key) => map.has(key) && map.set(map.get(key), key) && map.delete(key) && map;

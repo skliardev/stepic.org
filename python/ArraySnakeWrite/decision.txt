@@ -1,0 +1,13 @@
+# writeIndex
+#   1. write arr[curX][curY] = index
+#   2.
+#   3. countX -= abs(stepHor)
+#   4. countY -= abs(stepVer)
+# conditions
+#   1. if index == 'nxn' then go to break
+#   2. if countX and countY == 0 then change direction
+# make a step
+#   1. curX += stepHor
+#   2. curY += stepVer
+# write to out
+print ...
